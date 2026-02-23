@@ -1,5 +1,5 @@
 function cristmasCountDown() {
-  const christmasDate = new Date("February 22, 2026 19:54");
+  const christmasDate = new Date("December 25, 2026 00:00");
   const now = new Date();
   const difference = christmasDate - now;
 
